@@ -1,0 +1,9 @@
+- TECLADO -
+?            Muestra opciones
+space        Seleccionar archivos
+m   m        Seleccionar archivos desde el inicio marcado 'm' hasta el final 'm'
+a   A        Seleccionar todo y seleccionar archivos inverso
+1234         Directorios que maneja nnn (del 1 pasas al directorio 2 para pegar o copiar, moverte)
+p            Pegar archivos previamente seleccionados
+v            Pegar archivos previamente seleccionados (ejecutar nnn con sudo por los permisos)
+x            Borrar (convinar con 'c' para un archivo o 's' para varios seleccionados)
