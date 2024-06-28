@@ -7,3 +7,6 @@ a   A        Seleccionar todo y seleccionar archivos inverso
 p            Pegar archivos previamente seleccionados
 v            Pegar archivos previamente seleccionados (ejecutar nnn con sudo por los permisos)
 x            Borrar (convinar con 'c' para un archivo o 's' para varios seleccionados)
+r            Rename [Vim control] i (editar) Esc (salir modo edit) :x (guardar y salir)
+d            Detalles
+n            Crear 'file' & 'folder'
